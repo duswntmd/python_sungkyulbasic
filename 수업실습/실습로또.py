@@ -1,0 +1,16 @@
+import random
+num = []
+a =random.randint(1,45)
+num.append(a)
+a =random.randint(1,45)
+num.append(a)
+a =random.randint(1,45)
+num.append(a)
+a =random.randint(1,45)
+num.append(a)
+a =random.randint(1,45)
+num.append(a)
+a =random.randint(1,45)
+num.append(a)
+b =random.randint(1,45)
+print("로또 번호는:", num, "이며,보너스 번호는", b)
